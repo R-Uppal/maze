@@ -5101,3 +5101,4 @@ Python-3.12.2/Tools/wasm/wasi-env
 Python-3.12.2/Tools/wasm/wasm_assets.py
 Python-3.12.2/Tools/wasm/wasm_build.py
 Python-3.12.2/Tools/wasm/wasm_webserver.py
+__pycache__/graphics.cpython-312.pyc
