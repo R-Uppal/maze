@@ -2,7 +2,7 @@ from graphics import Window, Line, Point
 from cell import Cell, Maze
 
 def main():
-    win = Window(800, 600)
+    #win = Window(800, 600)
     #l = Line(Point(50, 50), Point(400, 400))
     #win.draw_line(l, "black")
 
